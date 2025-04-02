@@ -7,8 +7,13 @@
 
 
 <div align="center">
-  <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExM2x4aG81MHJxbnpqM2ZleDR0bG5xM2IyejIwZzNqY28xOW13bDRreiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/oCBuqA0glF9gFxWIfZ/giphy.gif" alt="Card header" style="width: 1000px; height: auto;"/>
+  <a href="#" onclick="return false;">
+    <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExM2x4aG81MHJxbnpqM2ZleDR0bG5xM2IyejIwZzNqY28xOW13bDRreiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/oCBuqA0glF9gFxWIfZ/giphy.gif" 
+         alt="Card header" 
+         style="width: 1000px; height: auto;"/>
+  </a>
 </div>
+
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=anderson3x11&color=blueviolet" alt="Profile views" />
@@ -28,7 +33,7 @@
 
 # 📚 Portfolio:
 
-[![Portfolio Badge](https://img.shields.io/badge/-Anderson_HQ-orange?style=flat-square&logo=Portfolio&logoColor=white)](https://anderson3x11.github.io/)
+[![Portfolio Badge](image.png)](https://anderson3x11.github.io/)
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=anderson3x11&theme=dark&hide_border=false&include_all_commits=false&count_private=false)
