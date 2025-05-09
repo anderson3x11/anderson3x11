@@ -1,6 +1,8 @@
 <div>
 🔴🟡🟢
+<h1 align="center"><samp>Cybersecurity Enthusiast</samp> <img src="https://github.com/mupezzuol/mupezzuol/blob/master/assets/developer.gif" width="22px" height="22px"> </h1>
 
+<h2 align="center"><samp>Hi 👋 I'm Anderson</samp></h2>
 <br>
 
 </div>
@@ -24,23 +26,121 @@
 </p>
 
 
-# 🔐 Cybersecurity Enthusiast<br>
+<h1 align="center"><samp>🔐 Profile</samp></h1>
 🌱 Currently learning Cybersecurity.<br>🔍 Exploring CTFs, challenges, and security concepts.<br>🎯 Focused on penetration testing, reverse engineering, and web security.<br>🎮 Enjoys hacking challenges, bug bounty, and CTF competitions.<br>🛠️ Burp Suite, Wireshark, Gobuster, Nmap, and more.<br><br>💡 Always curious, always learning.
 
+<!-- Languages -->
+<h1 align="center"><samp>💻 Languages and Tools</samp></h1>
+<div style="display: flex; align-items: flex-start; align: center">
+<table align="center">
+  <tr>
+    <td align="center" width="100">
+        <img src="https://skillicons.dev/icons?i=cs" alt="C#" width="45" height="45" />
+      <br>C#
+    </td>
+    <td align="center" width="100">
+        <img src="https://skillicons.dev/icons?i=cpp" alt="C++" width="45" height="45" />
+      <br>C++
+    </td>
+    <td align="center" width="100">
+        <img src="https://skillicons.dev/icons?i=go" alt="Go" width="45" height="45" />
+      <br>Go
+    </td>
+    <td align="center" width="100">
+        <img src="https://skillicons.dev/icons?i=php" alt="PHP" width="45" height="45" />
+      <br>PHP
+    </td>
+    <td align="center" width="100">
+        <img src="https://skillicons.dev/icons?i=symfony" alt="Symfony" width="45" height="45" />
+      <br>Symfony
+    </td>
+    <td align="center" width="100">
+        <img src="https://skillicons.dev/icons?i=sqlite" alt="SQLite" width="45" height="45" />
+      <br>SQLite
+    </td>
+    <td align="center" width="100">
+        <img src="https://skillicons.dev/icons?i=mysql" alt="MySQL" width="45" height="45" />
+      <br>MySQL
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="100">
+        <img src="https://skillicons.dev/icons?i=bash" alt="Bash" width="45" height="45" />
+      <br>Bash
+    </td>
+    <td align="center" width="100">
+        <img src="https://skillicons.dev/icons?i=javascript" alt="JavaScript" width="45" height="45" />
+      <br>JavaScript
+    </td>
+    <td align="center" width="100">
+        <img src="https://skillicons.dev/icons?i=html" width="45" height="45" alt="HTML5" />
+      <br>HTML5
+    </td>
+    <td align="center" width="100">
+        <img src="https://skillicons.dev/icons?i=css" width="45" height="45" alt="CSS" />
+      <br>CSS
+    </td>
+    <td align="center" width="100">
+        <img src="https://skillicons.dev/icons?i=arch" width="45" height="45" alt="Arch" />
+      <br>Arch
+    </td>
+    <td align="center" width="100">
+        <img src="https://skillicons.dev/icons?i=nodejs" width="45" height="45" alt="Node.js" />
+      <br>Nodejs
+    </td>
+    <td align="center" width="100">
+        <img src="https://skillicons.dev/icons?i=python" width="45" height="45" alt="Python" />
+      <br>Python
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="100"> 
+        <img src="https://skillicons.dev/icons?i=git" width="45" height="45" alt="Git" />
+      <br>Git
+    </td>
+    <td align="center" width="100">
+        <img src="https://skillicons.dev/icons?i=github" alt="GitHub" width="45" height="45" />
+      <br>Github
+    </td>
+    <td align="center" width="100">
+        <img src="https://skillicons.dev/icons?i=docker" width="45" height="45" alt="Docker" />
+      <br>Docker
+    </td>
+    <td align="center" width="100">
+        <img src="https://skillicons.dev/icons?i=vscode" width="45" height="45" alt="VS Code" />
+      <br>VsCode
+    </td>
+    <td align="center" width="100">
+        <img src="https://skillicons.dev/icons?i=linux" width="45" height="45" alt="Linux" />
+      <br>Linux
+    </td>
+    <td align="center" width="100">
+        <img src="https://skillicons.dev/icons?i=apple" width="45" height="45" alt="Apple" />
+      <br>Apple
+    </td>
+    <td align="center" width="100">
+        <img src="https://skillicons.dev/icons?i=windows" width="45" height="45" alt="Windows" />
+      <br>Windows
+    </td>
+  </tr>
+</table>
+</div>
 
-# 💻 Tech Stack:
-![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Bash Script](https://img.shields.io/badge/bash_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Symfony](https://img.shields.io/badge/symfony-%23000000.svg?style=for-the-badge&logo=symfony&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![Riot Games](https://img.shields.io/badge/riotgames-D32936.svg?style=for-the-badge&logo=riotgames&logoColor=white) ![Steam](https://img.shields.io/badge/steam-%23000000.svg?style=for-the-badge&logo=steam&logoColor=white) ![Unity](https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white)
+<div align="center">
 
-# 📚 Portfolio:
+<h1><samp>📚 Portfolio</samp></h1>
 
-[![Portfolio Badge](image.png)](https://anderson3x11.github.io/)
+<a href="https://anderson3x11.github.io/">
+  <img src="image.png" alt="Portfolio Badge">
+</a>
 
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=anderson3x11&theme=dark&hide_border=false&include_all_commits=false&count_private=false)
-![](https://nirzak-streak-stats.vercel.app/?user=anderson3x11&theme=dark&hide_border=false)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=anderson3x11&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+</div>
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=anderson3x11&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+<h1 align="center"><samp>📊 GitHub Stats</samp></h1>
+<p align="center">
+ <img height="50%" width="auto" src ="https://github-readme-stats.vercel.app/api?username=anderson3x11&show_icons=true&count_private=true&hide_border=true&hide=issues,contribs&bg_color=00000000&title_color=5fa0fe&text_color=ffffff&icon_color=5fa0fe">
 
----
+<img height="50%" width="auto" src ="https://github-readme-stats.vercel.app/api/top-langs/?username=anderson3x11&layout=compact&hide_border=true&bg_color=00000000&langs_count=6&hide=jupyter%20notebook,tex,css,php&exclude_repo=Pacman-AI&title_color=5fa0fe&text_color=ffffff">
+
+<img src ="https://github-readme-streak-stats.herokuapp.com?user=anderson3x11&hide_border=true&background=00000000&stroke=5fa0fe&ring=5fa0fe&fire=5fa0fe&currStreakLabel=5fa0fe&sideNums=ffffff&currStreakNum=ffffff&dates=AAAAAA&sideLabels=ffffff">
+</p>
