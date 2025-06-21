@@ -1,8 +1,6 @@
 <div>
 🔴🟡🟢
-<h1 align="center"><samp>Cybersecurity Enthusiast</samp> <img src="https://github.com/mupezzuol/mupezzuol/blob/master/assets/developer.gif" width="22px" height="22px"> </h1>
-
-<h2 align="center"><samp>Hi 👋 I'm Anderson</samp></h2>
+<h1 align="center"><samp>Hi 👋 I'm Anderson</samp></h1>
 <br>
 
 </div>
