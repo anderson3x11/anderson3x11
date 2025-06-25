@@ -8,7 +8,7 @@
 
 <div align="center">
   <a href="#" onclick="return false;">
-    <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExM2x4aG81MHJxbnpqM2ZleDR0bG5xM2IyejIwZzNqY28xOW13bDRreiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/oCBuqA0glF9gFxWIfZ/giphy.gif" 
+    <img src="SS2.gif" 
          alt="Card header" 
          style="width: 1000px; height: auto;"/>
   </a>
