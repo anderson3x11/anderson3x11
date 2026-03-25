@@ -13,6 +13,7 @@ I'm [**Anderson**](https://anderson3x11.github.io/), a cybersecurity student bas
 
 **Some stuff I built:**
 - [Pitstopped](https://pitstoppd.vercel.app/) -  A Letterboxd inspired app for Formula 1 Grand Prix.
+- [FCBT](https://github.com/anderson3x11/fcbt) - A local password manager built in Python with a command-line interface. 
 - [Theme Selector](https://github.com/anderson3x11/theme-selector.nvim) -  A NeoVim plugin that allows to change theme on the fly.
 - [Useful Resources of Dr Banarby](https://github.com/anderson3x11/Useful-Resources-of-Dr-Banarby) -  A github repo of IT ressources, the place to go when searching for tools.
 - [Beekeep](https://github.com/anderson3x11/beekeep) - A very small browser incremental game made in JS to learn the language.
