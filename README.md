@@ -12,7 +12,7 @@ I'm [**Anderson**](https://anderson3x11.github.io/), a cybersecurity student bas
 ---
 
 **Some stuff I built:**
-- [Pitstopped](https://pitstoppd.vercel.app/) -  A Letterboxd inspired app for Formula 1 Grand Prix.
+- [Pitstoppd](https://pitstoppd.vercel.app/) -  A Letterboxd inspired app for Formula 1 Grand Prix.
 - [Shoryu](https://shoryu.site/) -  A Street Fighter 6 stats site.
 - [Hermes](https://github.com/anderson3x11/hermes) - Fast username hunter written in Go.
 - [FCBT](https://github.com/anderson3x11/fcbt) - A local password manager built in Python with a command-line interface. 
