@@ -1,6 +1,6 @@
 ### Hi I'm Anderson ! <img src="https://emojis.slackmojis.com/emojis/images/1536351075/4594/blob-wave.gif" width="25"/> 
 
-I'm [**Anderson**](https://anderson3x11.github.io/), a junior dev based in France. I learn by shipping: web apps, CLI tools, and whatever scratches an itch.
+I'm [**Anderson**](https://anderson3x11.dev/), a junior dev based in France. I learn by shipping: web apps, CLI tools, and whatever scratches an itch.
 
 ---
 
@@ -14,7 +14,7 @@ I'm [**Anderson**](https://anderson3x11.github.io/), a junior dev based in Franc
 ---
 
 **Desktop app:**
-- [Cascades](https://anderson3x11.github.io/cascades-site/) - A light text editor for taking notes: indented lines get linked by drawn cascades. Plugins, auto-updates, Windows, macOS and Linux. Tauri, Rust, Svelte, CodeMirror.
+- [Cascades](https://anderson3x11.dev/cascades-site/) - A light text editor for taking notes: indented lines get linked by drawn cascades. Plugins, auto-updates, Windows, macOS and Linux. Tauri, Rust, Svelte, CodeMirror.
 
 **Web apps:**
 - [Nooks](https://github.com/anderson3x11/nooks) - A collaborative map of unusual places filled by users. ASP.NET Core, Angular, PostGIS, Docker.
