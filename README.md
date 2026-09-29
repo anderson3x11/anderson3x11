@@ -5,12 +5,16 @@ I'm [**Anderson**](https://anderson3x11.github.io/), a junior dev based in Franc
 ---
 
 **Stack I work with:**
-- **Web** : TypeScript, React, Next.js, Angular, Tailwind
-- **Back** : C# / ASP.NET Core, Go, Python, Node
+- **Web** : TypeScript, React, Next.js, Angular, Svelte, Tailwind
+- **Back** : C# / ASP.NET Core, Go, Rust, Python, Node
+- **Desktop** : Tauri, CodeMirror
 - **Data** : PostgreSQL, PostGIS, Supabase
 - **Rest** : Lua (Neovim), Bash, Docker, Linux
 
 ---
+
+**Desktop app:**
+- [Cascades](https://anderson3x11.github.io/cascades-site/) - A light text editor for taking notes: indented lines get linked by drawn cascades. Plugins, auto-updates, Windows, macOS and Linux. Tauri, Rust, Svelte, CodeMirror.
 
 **Web apps:**
 - [Nooks](https://github.com/anderson3x11/nooks) - A collaborative map of unusual places filled by users. ASP.NET Core, Angular, PostGIS, Docker.
