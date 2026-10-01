@@ -19,7 +19,7 @@ I'm [**Anderson**](https://anderson3x11.dev/), a junior dev based in France. I l
 **Web apps:**
 - [Nooks](https://github.com/anderson3x11/nooks) - A collaborative map of unusual places filled by users. ASP.NET Core, Angular, PostGIS, Docker.
 - [Shoryu](https://shoryu.site/) - A Street Fighter 6 stats site. Next.js, React, Supabase, Recharts.
-- [Pitstoppd](https://pitstoppd.vercel.app/) - A Letterboxd inspired app for Formula 1 Grand Prix. React, Vite, Supabase.
+- [Pitstoppd](https://pitstoppd.anderson3x11.dev) - A Letterboxd inspired app for Formula 1 Grand Prix: rate and review every race since 2000. React, Hono, SQLite.
 
 **Tools:**
 - [Hermes](https://github.com/anderson3x11/hermes) - Fast username hunter written in Go, 400+ sites checked in parallel.
