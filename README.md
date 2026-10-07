@@ -5,11 +5,11 @@ I'm [**Anderson**](https://anderson3x11.dev/), a junior dev based in France. I l
 ---
 
 **Stack I work with:**
-- **Web** : TypeScript, React, Next.js, Angular, Svelte, Tailwind
+- **Web** : TypeScript, React, Next.js, Angular, Svelte, SvelteKit, Tailwind
 - **Back** : C# / ASP.NET Core, Go, Rust, Python, Node
 - **Desktop** : Tauri, CodeMirror
-- **Data** : PostgreSQL, PostGIS, Supabase
-- **Rest** : Lua (Neovim), Bash, Docker, Linux
+- **Data** : PostgreSQL, PostGIS, Supabase, pandas
+- **Rest** : Lua (Neovim), Bash, Docker, Coolify, Linux
 
 ---
 
@@ -19,6 +19,7 @@ I'm [**Anderson**](https://anderson3x11.dev/), a junior dev based in France. I l
 **Web apps:**
 - [Nooks](https://github.com/anderson3x11/nooks) - A collaborative map of unusual places filled by users. ASP.NET Core, Angular, PostGIS, Docker.
 - [Shoryu](https://shoryu.site/) - A Street Fighter 6 stats site. Next.js, React, Supabase, Recharts.
+- [openroomf1](https://openroomf1.anderson3x11.dev) - Post-race Formula 1 analysis: pace, strategy, teammate duels and a replay of every Grand Prix, updated after each race. Python, FastF1, SvelteKit, ECharts.
 - [Pitstoppd](https://pitstoppd.anderson3x11.dev) - A Letterboxd inspired app for Formula 1 Grand Prix: rate and review every race since 2000. React, Hono, SQLite.
 
 **Tools:**
